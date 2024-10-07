@@ -1,5 +1,5 @@
 # Project5_PowerBI: Data Visualization for NWU Tech trends 
-
+# Github Classroom Repository Access: https://github.com/NWU-CMPG323-2024/project-5-Lungile902
 ## OVERVIEW
 This is the project to the build up of the desired solution. Project 5 mainly focuses on reporting the output of the solution against the desired solution. Reporting is a very important, because we get to see if the produced solution meets the user requirements. Thus, it provides a micro view of what the solution provides for the organisation. Subsequently, the stakeholders of the organization will be able to weigh the benefits that the solution brings to the organisation.
 
